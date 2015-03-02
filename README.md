@@ -4,6 +4,8 @@ http://www.peppercarrot.com
 Source folder with SVG to crowdsource 
 translation of the webcomic Pepper and Carrot 
 
+![alt tag](gfx_Pepper-and-Carrot_by-David-Revoy_E05.png)
+
 License
 =======
 
