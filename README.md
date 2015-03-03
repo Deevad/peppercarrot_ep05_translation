@@ -1,35 +1,45 @@
-# Pepper&Carrot
-# episode 05 special holliday season
-http://www.peppercarrot.com
-Source folder with SVG to crowdsource 
-translation of the webcomic Pepper and Carrot 
+# Pepper&Carrot translation project
+## Episode 05 : special holliday season
+
+[http://www.peppercarrot.com](http://www.peppercarrot.com)
 
 ![alt tag](gfx_Pepper-and-Carrot_by-David-Revoy_E05.png)
+
 
 License
 =======
 
-##Artworks : 
 [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
-Attribution to : "David Revoy, www.peppercarrot.com"
 
-##Translators and correctors : 
-*French : David Revoy
-*English : David Revoy, Amireti
-*Portuguese : Frederico Batista
+## Translators and correctors : 
+ 
+* French     : David Revoy
 
-##Fonts:
-New fonts added in this project must be compatible with the CC-By license.
-Are accepted : Public domain fonts, GNU/GPL fonts, CC-0 fonts, CC-BY fonts, SIL Open Font License (OFL) ,  + Name of author + Link
-Not accepted : Font only known to be 'free' but without details or license, Copyrighted fonts, etc...
-Good place for open fonts : [http://openfontlibrary.org](http://openfontlibrary.org)
-Font in use so far :
+* English    : David Revoy, Amireti
 
-###Lavi.ttf
-[GNU GPL V3](http://www.gnu.org/copyleft/gpl.html)
-By Ruben Holthuijsen ( aka Rholt ), [reference](http://www.dafont.com/lavi.font)
+* Portuguese : Frederico Batista
 
-###Alex-Brush.otf
-[OFL](http://openfontlibrary.org/en/font/alex-brush)
-By Robert E. Leuschke
+
+## Fonts:
+
+* Lavi by Ruben Holthuijsen aka Rholt
+[GNU GPL V3](http://www.gnu.org/copyleft/gpl.html), [link](http://www.dafont.com/lavi.font)
+
+* Alex-Brush By Robert E. Leuschke
+[OFL](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), [link](http://openfontlibrary.org/en/font/alex-brush)
+
+
+## Artworks :
+
+* David Revoy, www.peppercarrot.com
+
+
+Infos :
+=======
+
+- Translation/Correction [full how-to documentation](http://www.peppercarrot.com/fr/article267/how-to-add-a-translation-or-a-correction)
+
+- Ressources added in this project must be compatible with the CC-By license ( fonts, images, etc ). Are compatible : Public domain fonts, GNU/GPL fonts, CC-0 fonts, CC-BY fonts, SIL Open Font License (OFL). Adding author name plus a link and license is appreciated.
+
+- Do not edit or propose a commit for the artworks in this repositories. Artworks here are low-resolution proxy files only. The real hi-res layered artworks,  *.kra files, are [available here] www.peppercarrot.com/static6/sources.
 
