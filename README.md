@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-## Episode 05 : special holliday season
+# Episode 05 : special holliday season
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
