@@ -17,6 +17,8 @@ License
 
 * English    : David Revoy, Amireti
 
+* Japanese   : guruguru
+
 * Portuguese : Frederico Batista
 
 
@@ -27,6 +29,9 @@ License
 
 * Alex-Brush By Robert E. Leuschke
 [OFL](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), [link](http://openfontlibrary.org/en/font/alex-brush)
+
+* Japanese: rounded-mplus-1c-medium.ttf from Rounded M+ by MM
+[MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
 
 
 ## Artworks :
