@@ -21,6 +21,8 @@ License
 
 * Portuguese : Frederico Batista
 
+* Spanish    : TheFaico
+
 
 ## Fonts:
 
