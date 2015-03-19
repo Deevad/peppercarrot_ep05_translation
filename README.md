@@ -11,11 +11,13 @@ License
 
 [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-## Translators and correctors : 
- 
+## Translators and correctors :
+
 * French     : David Revoy
 
 * English    : David Revoy, Amireti
+
+* German     : Helmar Suschka, Alexandra Jordan
 
 * Japanese   : guruguru
 
