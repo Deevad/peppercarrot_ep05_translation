@@ -27,6 +27,8 @@ License
 
 * Spanish    : TheFaico
 
+* Dutch      : Willem Sonke
+
 
 ## Fonts:
 
