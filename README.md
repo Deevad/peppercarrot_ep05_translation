@@ -13,9 +13,11 @@ License
 
 ## Translators and correctors :
 
-* French     : David Revoy
-
 * English    : David Revoy, Amireti
+
+* Dutch      : Willem Sonke
+
+* French     : David Revoy
 
 * German     : Helmar Suschka, Alexandra Jordan
 
@@ -26,8 +28,6 @@ License
 * Sinhala    : Tharinda Divakara
 
 * Spanish    : TheFaico
-
-* Dutch      : Willem Sonke
 
 
 ## Fonts:
