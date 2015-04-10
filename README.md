@@ -25,6 +25,8 @@ License
 
 * Portuguese : Frederico Batista
 
+* Russian    : Denis "uncle Night" Prisukhin
+
 * Sinhala    : Tharinda Divakara
 
 * Spanish    : TheFaico
@@ -43,6 +45,8 @@ License
 
 * Sinhala: Bashita Complex Bold by the ICT Agency (ICTA) of Sri Lanka
 [Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/), [link](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en)
+
+* Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
 
 ## Artworks :
 
