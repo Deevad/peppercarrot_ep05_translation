@@ -21,6 +21,8 @@ License
 
 * German     : Helmar Suschka, Alexandra Jordan
 
+* Italian    : Carlo Gandolfi
+
 * Japanese   : guruguru
 
 * Portuguese : Frederico Batista
