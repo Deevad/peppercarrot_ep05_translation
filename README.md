@@ -13,6 +13,8 @@ License
 
 ## Translators and correctors :
 
+* Arabic     : Mahwiii
+
 * Catalan    : Juan Jose Segura
 
 * English    : David Revoy, Amireti
@@ -38,19 +40,21 @@ License
 
 ## Fonts:
 
-* Lavi by Ruben Holthuijsen aka Rholt
-[GNU GPL V3](http://www.gnu.org/copyleft/gpl.html), [link](http://www.dafont.com/lavi.font)
 
-* Alex-Brush By Robert E. Leuschke
-[OFL](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), [link](http://openfontlibrary.org/en/font/alex-brush)
+* Latin: Lavi by Ruben Holthuijsen aka Rholt [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html) [link](http://www.dafont.com/lavi.font)
 
-* Japanese: rounded-mplus-1c-medium.ttf from Rounded M+ by MM
-[MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
+* Russian: Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
 
-* Sinhala: Bashita Complex Bold by the ICT Agency (ICTA) of Sri Lanka
-[Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/), [link](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en)
+* Japanese: rounded-mplus-1c-medium.ttf from Rounded M+ by MM [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html) [link] (http://jikasei.me/font/rounded-mplus/about.html)
 
-* Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
+* Arabic: Midan-Normal by Almohtaraf Assaudi[MIT License](http://opensource.org/licenses/mit-license.php),  [link](http://openfontlibrary.org/en/font/midan-normal)
+
+* Arabic: Midian-Black by Kameel Hawa[MIT License](http://opensource.org/licenses/mit-license.php), [link](http://openfontlibrary.org/en/font/midan-black)
+
+* Arabic: Alhor by Nadim Shaikli[GNU GPL](http://www.gnu.org/copyleft/gpl.html), [link](http://openfontlibrary.org/en/font/alhor)
+
+* Sinhala: Bashita Complex Bold by the ICT Agency (ICTA) of Sri Lanka [Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/), [link](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en)
+
 
 ## Artworks :
 
