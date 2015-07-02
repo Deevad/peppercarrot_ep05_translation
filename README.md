@@ -19,6 +19,8 @@ License
 
 * English    : David Revoy, Amireti
 
+* Esperanto  : libre fan
+
 * Dutch      : Willem Sonke
 
 * French     : David Revoy
