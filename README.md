@@ -23,6 +23,8 @@ License
 
 * Dutch      : Willem Sonke
 
+* Finnish	   : Kari Lehto
+
 * French     : David Revoy
 
 * German     : Helmar Suschka, Alexandra Jordan
