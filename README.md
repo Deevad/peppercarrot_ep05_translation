@@ -25,7 +25,7 @@ License
 
 * Dutch      : Willem Sonke
 
-* Finnish	 : Kari Lehto
+* Finnish    : Kari Lehto
 
 * French     : David Revoy
 
