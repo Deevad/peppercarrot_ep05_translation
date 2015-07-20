@@ -39,6 +39,8 @@ License
 
 * Russian    : Denis "uncle Night" Prisukhin
 
+* Slovak     : talime
+
 * Sinhala    : Tharinda Divakara
 
 * Spanish    : TheFaico
