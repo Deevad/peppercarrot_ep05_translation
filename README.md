@@ -31,6 +31,8 @@ License
 
 * German     : Helmar Suschka, Alexandra Jordan
 
+* Hungarian  : Halász Gábor "Hali"
+
 * Italian    : Carlo Gandolfi
 
 * Japanese   : guruguru
