@@ -31,6 +31,8 @@ License
 
 * German     : Helmar Suschka, Alexandra Jordan
 
+* Indonesian : Bonaventura Aditya Perdana
+
 * Hungarian  : Halász Gábor "Hali"
 
 * Italian    : Carlo Gandolfi
