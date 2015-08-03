@@ -15,6 +15,8 @@ License
 
 * Arabic     : Mahwiii
 
+* Breton     : Stefan Carpentier
+
 * Catalan    : Juan Jose Segura
 
 * Chinese    : Ran Zhuang
