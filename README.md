@@ -51,6 +51,8 @@ License
 
 * Spanish    : TheFaico
 
+* Ukrainian  : Denis "uncle Night" Prisukhin
+
 * Vietnamese : Binh Pham
 
 
