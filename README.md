@@ -23,6 +23,8 @@ License
 
 * Chinese: Ran Zhuang
 
+* Czech: Martin Doucha
+
 * English: David Revoy, Amireti
 
 * Esperanto: libre fan
