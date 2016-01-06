@@ -12,9 +12,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
-   height="1906"
+   height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E05P04.svg">
   <metadata
      id="metadata8">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
@@ -91,24 +91,24 @@
      inkscape:window-height="750"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.30167891"
-     inkscape:cx="1240.5"
-     inkscape:cy="953"
+     inkscape:zoom="0.34693075"
+     inkscape:cx="760.3512"
+     inkscape:cy="1107.6011"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <image
-     sodipodi:absref="/home/next_ghost/src/pepper_carrot/ep5/cs/../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
+     sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep05_Special-holiday-episode/lang/cs/../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
-     y="0"
-     x="0"
+     width="2481"
+     height="3503"
      id="image10"
-     height="1906"
-     width="2481" />
+     x="0"
+     y="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 1028.2678,1531.087 c 92.8139,24.8609 192.2575,26.5182 293.3583,-10e-5"
+     d="m 1039.9163,3094.1089 c 92.8139,24.8609 192.2575,26.5182 293.3583,-1e-4"
      id="path3349"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
@@ -119,8 +119,8 @@
      sodipodi:linespacing="125%"><textPath
        xlink:href="#path3349"
        id="textPath3363"><tspan
-         id="tspan3355"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.57722473px;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#413727;fill-opacity:1;stroke:#483c2b;stroke-width:1.22155571;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="1687.2438"
-         x="916.97461">Veselé  Vánoce</tspan></textPath></text>
+   id="tspan3355"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.57722473px;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#413727;fill-opacity:1;stroke:#483c2b;stroke-width:1.22155571;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   y="1687.2438"
+   x="916.97461">Veselé  Vánoce</tspan></textPath></text>
 </svg>

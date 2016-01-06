@@ -12,9 +12,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
-   height="1906"
+   height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E05P04.svg">
   <metadata
      id="metadata8">
@@ -76,30 +76,30 @@
      inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.60835"
-     inkscape:cx="1073.6314"
-     inkscape:cy="376.88964"
+     inkscape:zoom="0.26300649"
+     inkscape:cx="1102.9161"
+     inkscape:cy="1652.0932"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <image
-     sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep05_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
+     sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep05_Special-holiday-episode/lang/hu/../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
-     y="0"
-     x="0"
+     width="2481"
+     height="3503"
      id="image10"
-     height="1906"
-     width="2481" />
+     x="0"
+     y="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 953.39854,1507.4903 c 75.61436,37.8073 236.70576,37.8071 236.70576,37.8071"
+     d="m 953.39854,3070.7779 c 75.61436,37.8073 236.70576,37.8071 236.70576,37.8071"
      id="path3351"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 1192.6921,1544.908 c 179.1731,-4.9313 271.2253,-67.3954 271.2253,-67.3954"
+     d="m 1192.6921,3108.1956 c 179.1731,-4.9313 271.2253,-67.3954 271.2253,-67.3954"
      id="path3351-4"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />

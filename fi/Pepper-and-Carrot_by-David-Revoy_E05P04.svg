@@ -12,9 +12,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
-   height="1906"
+   height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E05P04.svg">
   <metadata
      id="metadata8">
@@ -76,26 +76,26 @@
      inkscape:window-height="1018"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.60835"
-     inkscape:cx="883.32619"
-     inkscape:cy="775.10221"
+     inkscape:zoom="0.25606623"
+     inkscape:cx="1240.5"
+     inkscape:cy="1751.5"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <image
-     sodipodi:absref="C:\Users\Kari\Documents\Pepper and Carrot\Episode 5\fi\..\peppercarrot_ep05_translation-master\en\.\..\gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
+     sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep05_Special-holiday-episode/lang/fi/../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
-     width="2481"
-     height="1906"
-     id="image10"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="3503"
+     width="2481" />
   <flowRoot
      xml:space="preserve"
      id="flowRoot2987"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#483c2b;fill-opacity:1;stroke:#413727;stroke-width:1.37842441;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3980)"
-     transform="matrix(0.95112257,-0.14803231,-0.24361406,0.77336902,704.82943,380.62433)"><flowRegion
+     transform="matrix(0.95112257,-0.14803231,-0.24361406,0.77336902,714.5374,1950.3323)"><flowRegion
        id="flowRegion2989"><rect
          id="rect2991"
          width="693.03467"
@@ -105,7 +105,7 @@
          style="fill:#483c2b;fill-opacity:1;stroke:#413727;stroke-width:1.37842441;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
        id="flowPara2993"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush Bold';fill:#483c2b;fill-opacity:1;stroke:#413727;stroke-width:1.37842441;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Joulua</flowPara></flowRoot>  <flowRoot
-     transform="matrix(0.9760603,0.07264224,-0.49451295,0.68842862,910.81706,298.52618)"
+     transform="matrix(0.9760603,0.07264224,-0.49451295,0.68842862,920.52503,1868.2342)"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#413727;fill-opacity:1;stroke:#483c2b;stroke-width:1.22155571;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3980)"
      id="flowRoot2995"
      xml:space="preserve"><flowRegion
