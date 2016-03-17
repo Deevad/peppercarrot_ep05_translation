@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E05P04.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       id="filter3980"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3982"
+         flood-opacity="0.228"
+         flood-color="rgb(255,255,255)"
+         result="flood" />
+      <feComposite
+         id="feComposite3984"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3986"
+         in="composite"
+         stdDeviation="0.2"
+         result="blur" />
+      <feOffset
+         id="feOffset3988"
+         dx="1.2"
+         dy="-3.3"
+         result="offset" />
+      <feComposite
+         id="feComposite3990"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="1102.9161"
+     inkscape:cy="532.0932"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <image
+     sodipodi:absref="/home/deevad/Production/Webcomics/2014-12-19_ep05_Special-hollidays/lang/la/../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
+     xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
+     y="0"
+     x="0"
+     id="image10"
+     height="3503"
+     width="2481" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 953.39854,3070.7779 c 75.61436,37.8073 236.70576,37.8071 236.70576,37.8071"
+     id="path3351"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1192.6921,3108.1956 c 179.1731,-4.9313 271.2253,-67.3954 271.2253,-67.3954"
+     id="path3351-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-size:10.0962038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#413727;fill-opacity:1;stroke:#483c2b;stroke-width:1.22155571;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3980);font-family:Arial;-inkscape-font-specification:Arial"
+     id="text3378"
+     sodipodi:linespacing="125%"><textPath
+       xlink:href="#path3351"
+       id="textPath3384"><tspan
+   id="tspan3380"><tspan
+     id="tspan3382"
+     style="font-size:60.57722473px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#413727;fill-opacity:1;stroke:#483c2b;stroke-width:1.22155571;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Alex Brush;-inkscape-font-specification:Alex Brush Bold"
+     y="1687.2438"
+     x="916.97461">Faustam</tspan></tspan></textPath></text>
+  <text
+     xml:space="preserve"
+     style="font-size:10.03637695px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#483c2b;fill-opacity:1;stroke:#413727;stroke-width:1.37842441;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3980);font-family:Arial;-inkscape-font-specification:Arial"
+     id="text3388"
+     sodipodi:linespacing="125%"><textPath
+       xlink:href="#path3351-4"
+       id="textPath3394"><tspan
+   id="tspan3390"><tspan
+     id="tspan3392"
+     style="font-size:60.21826172px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#483c2b;fill-opacity:1;stroke:#413727;stroke-width:1.37842441;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Alex Brush;-inkscape-font-specification:Alex Brush Bold"
+     y="1687.2438"
+     x="916.97461">Nativitatem</tspan></tspan></textPath></text>
+</svg>
