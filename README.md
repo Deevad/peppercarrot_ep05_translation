@@ -46,6 +46,8 @@ License
 
 * Japanese: guruguru
 
+* Latin: Guillaume Lestringant
+
 * Polish: Sölve Svartskogen
 
 * Portuguese: Frederico Batista
