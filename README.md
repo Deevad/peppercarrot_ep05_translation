@@ -20,7 +20,7 @@ License
 
 * Breton: Stefan Carpentier
 
-* Catalan: Juan Jose Segura
+* Catalan: Juan José Segura
 
 * Chinese: Ran Zhuang
 
@@ -28,7 +28,7 @@ License
 
 * English: David Revoy, Amireti
 
-* Esperanto: libre fan
+* Esperanto: Libre fan (librefan.eu.org)
 
 * Dutch: Willem Sonke
 
