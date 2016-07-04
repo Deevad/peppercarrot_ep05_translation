@@ -12,10 +12,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E05P04.svg">
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E05P04.svg"
+   inkscape:export-filename="/home/stefan/Documents/Pepper&amp;Carrot/Rann 05/Pepper-and-Carrot_by-David-Revoy_E0504.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -24,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,19 +81,19 @@
      showgrid="false"
      inkscape:zoom="0.19887069"
      inkscape:cx="801.35891"
-     inkscape:cy="1651.184"
+     inkscape:cy="1762.8735"
      inkscape:window-x="59"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <image
-     sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep05_Special-holiday-episode/lang/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
+     sodipodi:absref="/home/stefan/Documents/Pepper&amp;Carrot/peppercarrot_ep05_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
-     y="0"
-     x="0"
-     id="image10"
+     width="2481"
      height="3503"
-     width="2481" />
+     id="image10"
+     x="0"
+     y="0" />
   <flowRoot
      xml:space="preserve"
      id="flowRoot2987"
