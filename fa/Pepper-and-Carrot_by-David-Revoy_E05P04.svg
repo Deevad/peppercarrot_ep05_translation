@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E05P04.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       id="filter3980"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3982"
+         flood-opacity="0.228"
+         flood-color="rgb(255,255,255)"
+         result="flood" />
+      <feComposite
+         id="feComposite3984"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3986"
+         in="composite"
+         stdDeviation="0.2"
+         result="blur" />
+      <feOffset
+         id="feOffset3988"
+         dx="1.2"
+         dy="-3.3"
+         result="offset" />
+      <feComposite
+         id="feComposite3990"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.36213234"
+     inkscape:cx="1261.9788"
+     inkscape:cy="1013.9451"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <image
+     sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 5\peppercarrot_ep05_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
+     xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
+     width="2481"
+     height="3503"
+     id="image10"
+     x="0"
+     y="0" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot2987"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#483c2b;fill-opacity:1;stroke:#413727;stroke-width:1.37842441;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3980)"
+     transform="matrix(0.95892454,-0.17343597,-0.39388045,0.73683036,581.77872,2089.0247)"><flowRegion
+       id="flowRegion2989"><rect
+         id="rect2991"
+         width="693.03467"
+         height="97.826324"
+         x="916.97449"
+         y="1627.8433"
+         style="fill:#483c2b;fill-opacity:1;stroke:#413727;stroke-width:1.37842441;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+       id="flowPara2993"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:95.6520462px;font-family:Midan;-inkscape-font-specification:'Midan Heavy';fill:#483c2b;fill-opacity:1;stroke:#413727;stroke-width:1.37842441;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">کریسمس</flowPara></flowRoot>  <flowRoot
+     transform="matrix(1.0544863,0.07222632,-0.53424684,0.68448697,341.80394,1832.5639)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#413727;fill-opacity:1;stroke:#483c2b;stroke-width:1.22155571;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3980)"
+     id="flowRoot2995"
+     xml:space="preserve"><flowRegion
+       id="flowRegion2997"><rect
+         y="1627.8433"
+         x="916.97449"
+         height="97.826324"
+         width="693.03467"
+         id="rect2999"
+         style="fill:#413727;fill-opacity:1;stroke:#483c2b;stroke-width:1.22155571;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:83.19958496px;font-family:Midan;-inkscape-font-specification:'Midan Heavy';fill:#413727;fill-opacity:1;stroke:#483c2b;stroke-width:1.22155571;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowPara3001">مبارک</flowPara></flowRoot></svg>
