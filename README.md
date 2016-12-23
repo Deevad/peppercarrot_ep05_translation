@@ -30,6 +30,8 @@ License
 
 * Esperanto: Libre fan (librefan.eu.org)
 
+* Farsi: Aslan Zamanloo
+
 * Dutch: Willem Sonke
 
 * Finnish: Kari Lehto
