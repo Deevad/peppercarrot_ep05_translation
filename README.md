@@ -50,7 +50,7 @@ License
 
 * Japanese: guruguru
 
-* Korean: Shikamaru Yamamoto
+* Korean: Shikamaru Yamamoto, Jihoon Kim
 
 * Latin: Guillaume Lestringant
 

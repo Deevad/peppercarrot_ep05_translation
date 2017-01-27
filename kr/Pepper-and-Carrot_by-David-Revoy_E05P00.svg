@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.60944264"
      inkscape:cx="1292.4532"
      inkscape:cy="207.34738"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/sandbox/peppercarrot_ep05_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E05P00.png"
+       sodipodi:absref="/home/graphene/peppercarrot-translations/peppercarrot_ep05_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E05P00.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E05P00.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="663"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -73,7 +73,7 @@
        xml:space="preserve"
        id="flowRoot2987"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#8b9cb1;fill-opacity:1;stroke:none"
-       transform="translate(-727.11813,-120.8471)"><flowRegion
+       transform="matrix(1.3039314,0,0,1.3039314,-1316.9862,-329.54424)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
            width="2405.8"
@@ -82,5 +82,5 @@
            y="644.36664"
            style="fill:#8b9cb1;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#8b9cb1;fill-opacity:1">제5 화: 특별한 날 (휴일날 특집)</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle;fill:#8b9cb1;fill-opacity:1">제 5화 : 성탄절 특집</flowPara></flowRoot>  </g>
 </svg>
