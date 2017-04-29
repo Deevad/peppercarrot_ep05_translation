@@ -26,6 +26,8 @@ License
 
 * Czech: Martin Doucha
 
+* Danish: [Alexandre](https://github.com/Alkarex) og [Emmiline](https://github.com/Emmilinette) Alapetite
+
 * English: David Revoy, Amireti
 
 * Esperanto: Libre fan (librefan.eu.org)
