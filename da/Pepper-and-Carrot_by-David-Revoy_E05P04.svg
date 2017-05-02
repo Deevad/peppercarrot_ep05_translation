@@ -76,7 +76,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.44533258"
-     inkscape:cx="1019.2645"
+     inkscape:cx="979.96803"
      inkscape:cy="940.57183"
      inkscape:window-x="1273"
      inkscape:window-y="0"
@@ -85,11 +85,11 @@
   <image
      sodipodi:absref="D:\Mes Documents\GitHub\peppercarrot\peppercarrot_ep05_translation\da\../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E05P04.png"
-     y="0"
-     x="0"
-     id="image10"
+     width="2646.3999"
      height="3736.5334"
-     width="2646.3999" />
+     id="image10"
+     x="0"
+     y="0" />
   <flowRoot
      xml:space="preserve"
      id="flowRoot2987"
@@ -126,7 +126,7 @@
        id="tspan3071"
        x="121.54804"
        y="3609.3369"
-       style="font-size:36.09395599px;line-height:1.25;font-family:sans-serif;fill:#6d5541;fill-opacity:1;stroke-width:0.90234888">Script og kunst: David Revoy. Oversættelse: Alexandre og Emmiline Alapetite</tspan></text>
+       style="font-size:36.09395599px;line-height:1.25;font-family:sans-serif;fill:#6d5541;fill-opacity:1;stroke-width:0.90234888">Design og manuskript: David Revoy. Oversættelse: Alexandre og Emmiline Alapetite</tspan></text>
   <flowRoot
      xml:space="preserve"
      id="flowRoot29"
@@ -137,4 +137,4 @@
          height="79.390869"
          x="98.444672"
          y="3577.7517" /></flowRegion><flowPara
-       id="flowPara35"></flowPara></flowRoot></svg>
+       id="flowPara35" /></flowRoot></svg>
