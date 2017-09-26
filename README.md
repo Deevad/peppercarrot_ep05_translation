@@ -66,7 +66,7 @@ License
 
 * Polish: Sölve Svartskogen
 
-* Portuguese: Frederico Batista
+* Portuguese: Frederico Batista, Alexandre E. Almeida
 
 * Romanian: Costin-Sorin Ionescu
 
